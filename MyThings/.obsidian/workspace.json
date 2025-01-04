@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "619b5b495e111ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "da1f65dd81c8d8d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ff534403251af55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack-Descomplica/Intermediate Front-end/3- Praticando soluções com operadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3- Praticando soluções com operadores"
+            }
+          },
+          {
+            "id": "f90500840b06fc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack-Descomplica/Intermediate Front-end/5- If, switch, for, while.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5- If, switch, for, while"
+            }
+          },
+          {
+            "id": "ff5d4a48f9fae2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack-Descomplica/Intermediate Front-end/6- Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6- Arrays"
+            }
+          },
+          {
+            "id": "f8043b560ccec086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack-Descomplica/Intermediate Front-end/7- Funções.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7- Funções"
+            }
+          },
+          {
+            "id": "a3b513c0523d86eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack-Descomplica/Intermediate Front-end/8- Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8- Classes"
+            }
+          },
+          {
+            "id": "18babf7fa8d7ff36",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Java/poojava.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "poojava"
+            }
+          },
+          {
+            "id": "f5529cc480a593fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Angular"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e0c5d95b718834e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d709097fcc2c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02cbed99ca17ac1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d766a463465e854a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "classe abstrata",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "399dbcffba4aa1fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "737d7d7645066fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "24140dc79229320b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd0d083813ed1062",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADS-Cruzeiro_Sul/Programacao_Orientada_Objetos_001/IV_POObjetos.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IV_POObjetos"
+            }
+          },
+          {
+            "id": "aa378e36bdea03b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ADS-Cruzeiro_Sul/Programacao_Orientada_Objetos_001/IV_POObjetos.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IV_POObjetos"
+            }
+          },
+          {
+            "id": "029669530b567928",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b48fd6df48379a47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ADS-Cruzeiro_Sul/Programacao_Orientada_Objetos_001/IV_POObjetos.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IV_POObjetos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5529cc480a593fe",
+  "lastOpenFiles": [
+    "Pasted image 20250104102651.png",
+    "Java/poojava.pdf",
+    "Angular.md",
+    "FullStack-Descomplica/imagens/Pasted image 20250102124545.png",
+    "FullStack-Descomplica/Intermediate Front-end/6- Arrays.md",
+    "FullStack-Descomplica/Intermediate Front-end/7- Funções.md",
+    "FullStack-Descomplica/Intermediate Front-end/9- Elementos do DOM.md",
+    "FullStack-Descomplica/Intermediate Front-end/8- Classes.md",
+    "FullStack-Descomplica/imagens/Pasted image 20250102125227.png",
+    "FullStack-Descomplica/Intermediate Front-end/5- If, switch, for, while.md",
+    "FullStack-Descomplica/imagens/Pasted image 20250101190550.png",
+    "FullStack-Descomplica/Intermediate Front-end/4- String.md",
+    "FullStack-Descomplica/Intermediate Front-end/3- Praticando soluções com operadores.md",
+    "Concurso Cebraspe Embrapa/0. Plano de Estudos para o Concurso da Embrapa - Cebraspe.md",
+    "Concurso Cebraspe Embrapa/1. Aplicações Web.md",
+    "Concurso Cebraspe Embrapa/Arquitetura de Aplicações Web.md",
+    "Concurso Cebraspe Embrapa/Desenvolvimento Back-End.md",
+    "Concurso Cebraspe Embrapa/Introdução às Aplicações Web.md",
+    "Seção 2 - Módulo Básico I.md",
+    "FullStack-Descomplica/imagens/Pasted image 20241230172125.png",
+    "FullStack-Descomplica/imagens/Pasted image 20241230171156.png",
+    "FullStack-Descomplica/Practitioner Front-End/9- Bootstrap avançado.md",
+    "FullStack-Descomplica/Intermediate Front-end/1- Programando com Javascript.md",
+    "FullStack-Descomplica/Intermediate Front-end/2- Tipos de dados e operadores.md",
+    "Introdução às Aplicações Web**.md",
+    "Concurso Cebraspe Embrapa",
+    "FullStack-Descomplica/Intermediate Front-end",
+    "Java/Basics.md",
+    "FullStack-Descomplica/Practitioner Front-End/7- Criando estilos.md",
+    "FullStack-Descomplica/imagens/Pasted image 20241228174637.png",
+    "Java",
+    "FullStack-Descomplica/Practitioner Front-End/8- Bootstrap.md",
+    "FullStack-Descomplica/imagens/Pasted image 20241228190837.png",
+    "FullStack-Descomplica/Practitioner Front-End/6- CSS.md",
+    "FullStack-Descomplica/imagens/Pasted image 20241227104453.png",
+    "FullStack-Descomplica/Practitioner Front-End/4- Tabelas.md",
+    "FullStack-Descomplica/imagens/Pasted image 20241228173915.png",
+    "FullStack-Descomplica/imagens/Pasted image 20241228173903.png",
+    "FullStack-Descomplica/Practitioner Front-End/5- Formulários.md",
+    "FullStack-Descomplica/Practitioner Front-End/3- Imagens - videos e listas no html.md",
+    "FullStack-Descomplica/Practitioner Front-End",
+    "FullStack-Descomplica/imagens",
+    "FullStack-Descomplica/UX",
+    "FullStack-Descomplica/Logica-programacao-Java",
+    "Ciência de Dados/Ciência+de+Dados+-++Aula+3+_+Módulo+Básico+2 (1).pdf",
+    "FullStack-Descomplica"
+  ]
+}

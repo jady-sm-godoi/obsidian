@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "0966aa871da075ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a34d63600d648e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d415c4f543dd8fee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a3c8841f542e854",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62ef418691b6d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0deae7b94b7ee31d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4945306e2289df2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f7c88d1d8cb7293",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16995e9155341704",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cbc3162de31f6fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edd0a4db17d456f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orientação a objetos - conceitos básicos, padrões de projeto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6673249aa90f15f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orientação a objetos - conceitos básicos, padrões de projeto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b1026f0423da318",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f04703353b5f6de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orientação a objetos - conceitos básicos, padrões de projeto.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0deae7b94b7ee31d",
+  "lastOpenFiles": [
+    "Padrões de Criação.md",
+    "Orientação a objetos - conceitos básicos, padrões de projeto.md",
+    "Polimorfismo.md",
+    "Herança.md",
+    "EIXO TEMÁTICO 4 – DESENVOLVIMENTO DE SOFTWARE.md",
+    "Encapsulamento.md",
+    "Pasted image 20240201212116.png",
+    "Pasted image 20240201212034.png",
+    "Pasted image 20240201211940.png",
+    "Faculdade/Manifesto Ágil.md",
+    "Faculdade",
+    "Algoritmos de busca e ordenação.md",
+    "Algoritmos de Ordenação.md",
+    "Algoritmos de Busca.md",
+    "Árvores - formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, filas de prioridades, árvores balanceadas..md",
+    "Estruturas lineares - lista encadeada, pilha, fila..md",
+    "CONHECIMENTOS ESPECÍFICOS.md",
+    "EIXO TEMÁTICO 5 – APOIO À DECISÃO, INTELIGÊNCIA ARTIFICIAL E MÉTODOS QUANTITATIVOS.md",
+    "EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO.md",
+    "EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS.md",
+    "EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA.md",
+    "souces",
+    "souces/edital-cpnu-bloco-2-10jan2024.pdf",
+    "CONHECIMENTOS GERAIS.md",
+    "Cargos do Concurso - Ordenados.md",
+    "B2-10.md",
+    "B2-08.md",
+    "Visão Concurso.canvas"
+  ]
+}

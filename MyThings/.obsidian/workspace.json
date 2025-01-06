@@ -81,26 +81,28 @@
             "id": "18babf7fa8d7ff36",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Java/poojava.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "poojava"
-            }
-          },
-          {
-            "id": "f5529cc480a593fe",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular.md",
+                "file": "FullStack-Descomplica/Advanced Front-End/1- Introdução ao Angular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angular"
+              "title": "1- Introdução ao Angular"
+            }
+          },
+          {
+            "id": "989414f2228650a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack-Descomplica/Advanced Front-End/3- Manipulando dados utilizando JSON.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3- Manipulando dados utilizando JSON"
             }
           }
         ],
@@ -245,11 +247,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5529cc480a593fe",
+  "active": "989414f2228650a2",
   "lastOpenFiles": [
-    "Pasted image 20250104102651.png",
+    "FullStack-Descomplica/Advanced Front-End/2- Rotas, layout angular material e HTML dos formulários.md",
+    "FullStack-Descomplica/Advanced Front-End/1- Introdução ao Angular.md",
+    "FullStack-Descomplica/Advanced Front-End/3- Manipulando dados utilizando JSON.md",
+    "FullStack-Descomplica/imagens/Pasted image 20250104102651.png",
     "Java/poojava.pdf",
     "Angular.md",
+    "FullStack-Descomplica/Advanced Front-End",
     "FullStack-Descomplica/imagens/Pasted image 20250102124545.png",
     "FullStack-Descomplica/Intermediate Front-end/6- Arrays.md",
     "FullStack-Descomplica/Intermediate Front-end/7- Funções.md",
@@ -284,14 +290,10 @@
     "FullStack-Descomplica/imagens/Pasted image 20241227104453.png",
     "FullStack-Descomplica/Practitioner Front-End/4- Tabelas.md",
     "FullStack-Descomplica/imagens/Pasted image 20241228173915.png",
-    "FullStack-Descomplica/imagens/Pasted image 20241228173903.png",
-    "FullStack-Descomplica/Practitioner Front-End/5- Formulários.md",
-    "FullStack-Descomplica/Practitioner Front-End/3- Imagens - videos e listas no html.md",
     "FullStack-Descomplica/Practitioner Front-End",
     "FullStack-Descomplica/imagens",
     "FullStack-Descomplica/UX",
     "FullStack-Descomplica/Logica-programacao-Java",
-    "Ciência de Dados/Ciência+de+Dados+-++Aula+3+_+Módulo+Básico+2 (1).pdf",
-    "FullStack-Descomplica"
+    "Ciência de Dados/Ciência+de+Dados+-++Aula+3+_+Módulo+Básico+2 (1).pdf"
   ]
 }
